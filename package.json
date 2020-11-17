@@ -1,0 +1,16 @@
+{
+  "name": "dailyrecord",
+  "version": "1.0.0",
+  "description": "my interests",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "./deploy.sh"
+  },
+  "keywords": [
+    "grow"
+  ],
+  "author": "Z",
+  "license": "ISC"
+}
