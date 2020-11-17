@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /xinyi.jpg
+heroImage: /xinyi.png
 actionText: Get Started →
-actionLink: /interest/
+actionLink: /interests/
 features:
 - title: 兴趣记录
   details: 记录自己的兴趣，学习相关的技能
